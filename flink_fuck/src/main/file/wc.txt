@@ -1,0 +1,6 @@
+i like flink more then spark
+scala spark
+java flink
+kafka flink
+i like hive
+hive is a bee
